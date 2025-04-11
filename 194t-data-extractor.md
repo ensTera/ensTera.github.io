@@ -3,6 +3,7 @@ layout: default
 title: 194T Data Extractor
 nav_order: 2
 ---
+{% include navbar.html %}
 
 # 🧾 194T Data Extractor
 
