@@ -47,7 +47,7 @@ This tool helps you:
 
 ## 📦 Download
 
-**[⬇️ Download 194T Data Extractor (v1.0)](https://github.com/enstera/enstera.github.io/releases/download/v1.0/194t-data-extractor.exe)**
+**[⬇️ Download 194T Data Extractor (v1.0)](https://github.com/ensTera/ensTera.github.io/releases/download/1.0.0.0/194T.Data.Extractor.exe)**
 
 ---
 
