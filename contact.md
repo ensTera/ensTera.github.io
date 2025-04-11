@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Contact Us
 nav_order: 4
 ---
