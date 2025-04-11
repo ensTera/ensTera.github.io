@@ -1,8 +1,7 @@
 <style>
   .topnav {
     background-color: #159957;
-    overflow: hidden;
-    padding: 14px 0;
+    padding: 10px 0;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -13,19 +12,19 @@
     margin: 0 auto;
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
     position: relative;
   }
 
   .topnav a {
     color: white;
-    text-align: center;
-    padding: 14px 20px;
+    padding: 10px 16px;
     text-decoration: none;
     font-size: 18px;
     font-weight: 600;
-    margin: 0 10px;
     border-radius: 4px;
+    transition: background 0.3s;
   }
 
   .topnav a:hover {
@@ -34,31 +33,35 @@
 
   .dropdown {
     position: relative;
-    display: inline-block;
+  }
+
+  .dropdown-toggle::after {
+    content: " ▼";
+    font-size: 12px;
   }
 
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #159957;
-    min-width: 200px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-    top: 48px;
+    top: 100%;
     left: 0;
+    background-color: #159957;
+    min-width: 220px;
+    border-radius: 4px;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
+    z-index: 1001;
   }
 
   .dropdown-content a {
-    color: white;
-    padding: 12px 16px;
-    text-decoration: none;
     display: block;
+    padding: 10px 16px;
     font-size: 16px;
+    color: white;
     text-align: left;
   }
 
   .dropdown-content a:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.1);
   }
 
   .dropdown:hover .dropdown-content {
@@ -71,10 +74,10 @@
     <a href="/index">Home</a>
 
     <div class="dropdown">
-      <a href="/tools">Tools</a>
+      <a class="dropdown-toggle" href="/tools">Tools</a>
       <div class="dropdown-content">
         <a href="/194t">194T Data Extractor</a>
-        <!-- Add more tools later here -->
+        <!-- Add more tools here if needed -->
       </div>
     </div>
 
