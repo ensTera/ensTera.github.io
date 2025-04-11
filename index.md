@@ -2,6 +2,8 @@
 layout: page
 title: "ens-T-era"
 ---
+{% include navbar.html %}
+
 # Welcome to ens-T-era
 
 At **ens-T-era**, we specialize in building tools, apps, dashboards, and utilities to simplify complex business tasks. Our aim is to reduce routine, time-consuming work and help you focus on what really matters.
