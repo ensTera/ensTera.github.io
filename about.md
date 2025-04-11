@@ -3,6 +3,7 @@ layout: default
 title: About Us
 nav_order: 3
 ---
+[Home](index.md) | [Tools](tools.md) | [About Us](about.md) | [Contact Us](contact.md)
 
 # 👥 About Us
 
