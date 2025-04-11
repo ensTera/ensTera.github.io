@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "ens-T-era"
 ---
 # Welcome to ens-T-era
