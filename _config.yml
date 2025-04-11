@@ -1,8 +1,7 @@
-title: ens-T-era
-description: Tools, Templates & Resources for Businesses & Professionals
-theme: jekyll-theme-caymantitle: Enstera
+title: "ens-T-era"
+description: "Tools, Templates & Resources for Businesses & Professionals"
+theme: jekyll-theme-cayman
 markdown: kramdown
 
 # Optional - if you want permalinks to be pretty
 permalink: pretty
-
