@@ -5,7 +5,7 @@ description: >-
 baseurl: "" # leave empty if deploying at root
 url: "https://enstera.github.io"
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 logo: /assets/images/logo.png
 
