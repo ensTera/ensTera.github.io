@@ -2,6 +2,10 @@
 layout: default
 title: "ens-T-era"
 ---
+<p align="left">
+  <img src="/assets/images/logo.png" alt="ens-T-era Logo" style="height: 70px; margin-bottom: 20px;">
+</p>
+
 {% include navbar.html %}
 
 # Welcome to ens-T-era
