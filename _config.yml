@@ -1,4 +1,8 @@
-title: Enstera
+title: ens-T-era
 description: Tools, Templates & Resources for Businesses & Professionals
-theme: jekyll-theme-cayman
-show_downloads: false
+theme: jekyll-theme-caymantitle: Enstera
+markdown: kramdown
+
+# Optional - if you want permalinks to be pretty
+permalink: pretty
+
