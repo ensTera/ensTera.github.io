@@ -1,49 +1,23 @@
 ---
 layout: default
+title: Home
 ---
 
-# 👋 Welcome to Enstera
+# Welcome to ens-T-era
 
-Tools, templates, and resources for professionals, curated for clarity and convenience.
+At **ens-T-era**, we specialize in building tools, apps, dashboards, and utilities to simplify complex business tasks. Our aim is to reduce routine, time-consuming work and help you focus on what really matters.
 
-<!-- Simulated Navbar -->
-<div style="text-align:center; margin-bottom: 2em;">
-  <a href="#tools" style="margin: 0 15px;">🛠 Tools</a>
-  <a href="#resources" style="margin: 0 15px;">📘 Resources</a>
-  <a href="#downloads" style="margin: 0 15px;">📥 Downloads</a>
-</div>
+### What We Do
 
----
+- 🔧 **Develop Custom Tools** to streamline repetitive tasks  
+- 📊 **Design Business Dashboards** for clear, actionable insights  
+- ⚙️ **Build Automations** to close process gaps and boost efficiency  
+- 💼 **Collaborate with Professionals** to create tailor-made, domain-specific solutions
 
-## 🛠 Tools
-
-A collection of helpful utilities to simplify your compliance tasks.
-
-- 📋 ROC Filing Checklist  
-- 📆 GST Due Date Tracker  
-- 🗂 Simple Compliance Calendar  
+Our tools are backed by the professional expertise of experienced **Chartered Accountants**, ensuring that your business solutions are accurate, relevant, and aligned with industry practices.
 
 ---
 
-## 📘 Resources
+If you're looking for support with **accounting, finance, tax compliance**, or similar technical solutions that require a **CA’s insight with a technological touch**, we’re here to help.
 
-Easy-to-follow guides and templates:
-
-- 🏢 [Annual Filing for Pvt Ltd Companies](#)  
-- ⚖️ [LLP Registration Guide](#)  
-- 📑 [Common Mistakes in Compliance Filings](#)
-
----
-
-## 📥 Downloads
-
-**🖥 Compliance Tool v1.0**  
-A lightweight utility to simplify routine filing tasks.
-
-[⬇️ Download EXE (v1.0)](https://github.com/enstera/enstera.github.io/releases/download/v1.0/yourfile.exe)
-
----
-
-## 📬 Stay Tuned
-
-More features and tools coming soon. Have feedback or ideas? Reach out!
+Together, let's simplify business complexity through smart solutions.
