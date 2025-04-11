@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 194T Data Extractor
 nav_order: 2
 ---
