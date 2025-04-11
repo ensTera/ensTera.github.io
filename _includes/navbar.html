@@ -28,7 +28,8 @@
     transition: background 0.3s;
   }
 
-  .topnav a:hover {
+  .topnav a:hover,
+  .topnav a.active {
     background-color: rgba(255, 255, 255, 0.2);
   }
 
@@ -61,7 +62,8 @@
     text-align: left;
   }
 
-  .dropdown-content a:hover {
+  .dropdown-content a:hover,
+  .dropdown-content a.active {
     background-color: rgba(255, 255, 255, 0.1);
   }
 
@@ -72,17 +74,16 @@
 
 <div class="topnav">
   <div class="nav-container">
-    <a href="/index">Home</a>
+    <a href="/index" class="{% if page.url == '/index' or page.url == '/' %}active{% endif %}">Home</a>
 
     <div class="dropdown">
-      <a class="dropdown-toggle" href="/tools">Tools</a>
+      <a href="/tools" class="dropdown-toggle {% if page.url == '/tools' %}active{% endif %}">Tools</a>
       <div class="dropdown-content">
-        <a href="/194t-data-extractor">194T Data Extractor</a>
-        <!-- Add more tools here -->
+        <a href="/194t" class="{% if page.url == '/194t' %}active{% endif %}">194T Data Extractor</a>
       </div>
     </div>
 
-    <a href="/about">About Us</a>
-    <a href="/contact">Contact</a>
+    <a href="/about" class="{% if page.url == '/about' %}active{% endif %}">About Us</a>
+    <a href="/contact" class="{% if page.url == '/contact' %}active{% endif %}">Contact</a>
   </div>
 </div>
