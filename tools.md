@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Tools
 nav_order: 1
 ---
