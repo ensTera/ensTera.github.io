@@ -1,7 +1,28 @@
-title: "ens-T-era"
-description: "Tools, Templates & Resources for Businesses & Professionals"
-theme: jekyll-theme-cayman
-markdown: kramdown
+title: ens-T-era
+email: ensterasolutions@gmail.com
+description: >-
+  Tools, apps, and dashboards to simplify your business processes.
+baseurl: "" # leave empty if deploying at root
+url: "https://enstera.github.io"
 
-# Optional - if you want permalinks to be pretty
-permalink: pretty
+theme: minimal-mistakes-jekyll
+
+logo: /assets/images/logo.png
+
+# Social Links (optional)
+author:
+  name   : ens-T-era
+  avatar : /assets/images/logo.png
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Navigation bar
+header_pages:
+  - index.md
+  - tools.md
+  - contact.md
+  - about.md
