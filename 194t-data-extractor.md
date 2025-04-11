@@ -13,7 +13,7 @@ The **194T Data Extractor** is a lightweight, intelligent utility designed to he
 
 ## 🎯 Purpose & Context
 
-As per Section 194T, tax deduction is required for each **partner** in a **partnership firm**, and the applicable deduction depends on past years' profit-sharing and income distribution.
+As per Section 194T, tax is to be deducted on salary, interest, etc. paid to each and every **partner** in a **partnership firm**, and the deduction most of the time depends on past years' salary, interest and income distribution.
 
 For professionals handling **multiple firms and multiple JSON files**, manually going through each file can be extremely time-consuming.
 
