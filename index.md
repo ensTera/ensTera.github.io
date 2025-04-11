@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "ens-T-era"
 ---
 {% include navbar.html %}
