@@ -3,6 +3,7 @@ layout: default
 title: About Us
 nav_order: 3
 ---
+{% include navbar.html %}
 
 # 👥 About Us
 
