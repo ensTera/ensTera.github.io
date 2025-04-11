@@ -2,17 +2,16 @@ title: ens-T-era
 email: ensterasolutions@gmail.com
 description: >-
   Tools, apps, and dashboards to simplify your business processes.
-baseurl: "" # leave empty if deploying at root
+baseurl: "" # Leave this empty for GitHub Pages root
 url: "https://enstera.github.io"
 
 remote_theme: mmistakes/minimal-mistakes
 
 logo: /assets/images/logo.png
 
-# Social Links (optional)
 author:
-  name   : ens-T-era
-  avatar : /assets/images/logo.png
+  name: ens-T-era
+  avatar: /assets/images/logo.png
 
 plugins:
   - jekyll-remote-theme
