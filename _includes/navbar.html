@@ -9,13 +9,14 @@
   }
 
   .nav-container {
-    max-width: 960px;
-    margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 30px;
-    position: relative;
+    padding: 0 5%;
+    max-width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
   }
 
   .topnav a {
@@ -77,7 +78,7 @@
     <a href="/index" class="{% if page.url == '/index' or page.url == '/' %}active{% endif %}">Home</a>
 
     <div class="dropdown">
-      <a href="/tools" class="dropdown-toggle {% if page.url == '/tools' %}active{% endif %}">Tools</a>
+      <a href="/tools" class="dropdown-toggle {% if page.url == '/tools' or page.url contains '/194t' %}active{% endif %}">Tools</a>
       <div class="dropdown-content">
         <a href="/194t" class="{% if page.url == '/194t-data-extractor' %}active{% endif %}">194T Data Extractor</a>
       </div>
