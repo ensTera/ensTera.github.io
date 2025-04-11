@@ -2,15 +2,6 @@
 layout: default
 title: "ens-T-era"
 ---
-<div style="background-color:#0366d6; padding: 10px 0; position: sticky; top: 0; z-index: 1000;">
-  <div style="max-width: 960px; margin: 0 auto; display: flex; justify-content: center; gap: 30px;">
-    <a href="/index" style="color: white; font-weight: bold; text-decoration: none; font-size: 16px;">Home</a>
-    <a href="/tools" style="color: white; font-weight: bold; text-decoration: none; font-size: 16px;">Tools</a>
-    <a href="/about" style="color: white; font-weight: bold; text-decoration: none; font-size: 16px;">About Us</a>
-    <a href="/contact" style="color: white; font-weight: bold; text-decoration: none; font-size: 16px;">Contact</a>
-  </div>
-</div>
-
 # Welcome to ens-T-era
 
 At **ens-T-era**, we specialize in building tools, apps, dashboards, and utilities to simplify complex business tasks. Our aim is to reduce routine, time-consuming work and help you focus on what really matters.
