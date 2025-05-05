@@ -17,7 +17,7 @@ Whether it’s feedback on a tool, a new feature idea, or a specific requirement
 
 ### 📧 Email
 
-**ensterasolutions@gmail.com**
+**ensteraautomations@gmail.com**
 
 > We usually respond within 1–2 business days.
 
