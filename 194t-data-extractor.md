@@ -53,9 +53,8 @@ This tool helps you:
 
 ## 🔐 Disclaimer
 
-- This tool simply consolidates data already in your possession.
-- Please ensure all usage complies with data protection and confidentiality regulations.
-- Enstera holds no responsibility for how extracted data is handled or interpreted.
+- This software tool **operates entirely offline and does not transmit, share, or store any data externally**. All scanned files and processed information remain on your local system. It is the user's sole responsibility to ensure the confidentiality, security, and proper handling of self/client files and data. By downloading / using this tool, you acknowledge and accept that the developer or provider of this software bears no liability for any misuse, unauthorized access, or breach of confidentiality arising from your use.
+
 
 ---
 
