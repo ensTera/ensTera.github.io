@@ -47,7 +47,7 @@ This tool helps you:
 
 ## 📦 Download
 
-**[⬇️ Download 194T Data Extractor (v1.0)]((https://forms.gle/g2Bxfie2Y7oYkdvD6))**
+**[⬇️ Download 194T Data Extractor (v1.0)](https://forms.gle/g2Bxfie2Y7oYkdvD6)**
 
 ---
 
